@@ -1,0 +1,222 @@
+*{margin: 0;padding:0;}
+.top{
+    width: 100%;
+    height: 98px;
+    margin-left: 110px;
+    position: relative;
+}
+
+.top-logo{
+    width: 210px;
+    height: 50px;
+    background: #f56600;
+    top: 50%;
+    margin-top: 25px;
+}
+.title-top{
+    position: absolute;
+    top: 20px;
+    left: 70px;
+    font-size: 30px;
+
+}
+.title-bottom{
+    position: absolute;
+    left: 70px;
+    top: 60px;
+    font-size: 2px;
+}
+
+.content{
+    width:100%;
+    height: 654px;
+    position: relative;
+}
+.back{
+    width: 100%;
+    height: 525px;
+    background: #f6f6fe;
+    position: absolute;
+}
+.left{
+    display: block;
+    width: 830px;
+    position: absolute;
+
+}
+.right{
+    margin-top: 30px;
+    position: absolute;
+    left: 830px;
+    width: 410px;
+    height: 560px;
+    background:#fff;
+}
+
+
+
+.form{
+    text-align: center;
+    width:400px;
+    margin-left:auto;
+    margin-right: auto;
+
+}
+.form-content{
+    
+    position: relative;
+    height:300px;
+}
+.form-content>div{
+    position: absolute;
+    width:100%;
+    height:100%;
+    left:0;
+    top:0;
+}
+.mid{
+    margin-top: 10px;
+    display: inline-block;
+    width: 2px;
+    height: 30px;
+    background: #e0e0e0;
+}
+.saoma{
+    display: none;
+}
+
+.nav{
+    font-size: 24px;
+    line-height: 50px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.nav>span{
+    margin: 0 20px;
+}
+.active{
+     color:#ff6700; 
+}
+input{
+    border: 1px solid #e0e0e0;
+    margin: 0;
+    padding: 13px 16px 13px 14px;
+    width:316px;
+    height:22px;
+    margin-top: 15px;
+    outline: none;
+}
+.sure{
+    background-color: #ff6700;
+    height: 50px;
+    line-height: 50px;
+    display: block;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    cursor: pointer;
+    width: 348px;
+    margin-top: 20px;
+    margin-left: 26px;
+}
+.short-message{
+    font-size: 14px;
+    color: #ff6700;
+    margin-right: 40px;
+    text-decoration: none;
+}
+.right-away{
+    color: #bbb;
+    font-size: 14px;
+    text-decoration: none;
+    margin-left: 40px;
+}
+.right-away:hover{
+    color: #ff6700;
+}
+.shu{
+    color: #bbb;
+}
+.forget{
+    color: #bbb;
+    font-size: 14px;
+    text-decoration: none;
+}
+.forget:hover{
+    color: #ff6700;
+}
+fieldset{
+    border: 0;
+}
+.other-way{
+    margin-top: 126px;
+    border-top:1px solid #e0e0e0;
+    padding-top: 10px;
+}
+.other-ways{
+    color: #bbb;
+    font-size: 14px;
+    margin: 0 auto;
+    text-align: center;
+}
+.sub-img{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.nav span{
+    cursor: pointer;
+}
+.erwei{
+    margin-top: 120px;
+}
+.row{
+    display: inline-block;
+}
+.p-shop{
+    color: #ff6700;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.saoma>p{
+    font-size: 14px;
+}
+.last{
+    width: 100%;
+    height: 120px;
+
+    margin: 0 auto;
+}
+.menu{
+    text-align: center;
+}
+.five-li>li{
+    color: #333;
+    display: inline-block;
+}
+.five-li>li>a{
+    color: #333;
+    text-decoration: none;
+    margin-top: 50px;
+    font-size: 14px;
+    display: inline-block;
+    padding:0 10px;
+}
+.five-li>li>a:hover{
+    color: #000;
+}
+.last>p{
+    display: block;
+    text-align: center;
+    font-size: 14px;
+}
+.last>p>a{
+    text-decoration: none;
+    color:#333;
+}
+.last>p>a:hover{
+    color: #000;
+}
+.nf-intro{
+    color:#333;
+}
